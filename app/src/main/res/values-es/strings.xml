@@ -3,6 +3,7 @@
     <string name="app_name">Sólo Java</string>
     <string name="toppings">Ingredientes</string>
     <string name="order">Ordenar</string>
+    <string name="name">Nombre</string>
     <string name="order_summary_name">
         Nombre: <xliff:g id="name" example="Amy">%s</xliff:g>
     </string>
